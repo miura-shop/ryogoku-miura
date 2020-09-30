@@ -85,9 +85,12 @@ header {
 }
 
 .header-left {
-  float: left;
+  line-height: 65px;
+  padding: 0 25px;
   color: white;
-  margin: 20px 0
+  display: block;
+  float: left;
+  transition: all 0.5s;
 }
 
 .header-right {
