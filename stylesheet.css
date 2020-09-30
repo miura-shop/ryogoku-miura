@@ -90,6 +90,8 @@ header {
 
 .header-left {
   float: left;
+  color: white;
+  margin: 10px 0
 }
 
 .header-right {
