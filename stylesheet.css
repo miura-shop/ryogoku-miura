@@ -93,7 +93,7 @@ header {
   margin-top: 20px;
 }
 
-.header-left {
+.header-left a {
   float: left;
   color: white;
   
