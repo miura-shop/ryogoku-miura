@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-image: url(miura.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -49,16 +49,16 @@ a {
   margin: 10px 0;
 }
 
-.signup {
+.menu {
   background-color: #239b76;
 }
 
-.facebook {
+.yoyaku {
   background-color: #3b5998;
   margin-right: 10px;
 }
 
-.twitter {
+.otoiawase {
   background-color: #55acee;
 }
 
