@@ -50,16 +50,16 @@ a {
 }
 
 .menu {
-  background-color: #239b76;
+  background-color: blue;
 }
 
 .yoyaku {
-  background-color: #3b5998;
+  background-color: yellow;
   margin-right: 10px;
 }
 
 .otoiawase {
-  background-color: #55acee;
+  background-color: red;
 }
 
 .btn {
